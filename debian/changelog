@@ -1,0 +1,15 @@
+ros-melodic-moose-viz (0.1.1-1bionic) bionic; urgency=high
+
+  * [moose_viz] Updated robot_state_publisher to robot_state_publisher_gui.
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Mon, 21 Sep 2020 04:00:00 -0000
+
+ros-melodic-moose-viz (0.1.0-1bionic) bionic; urgency=high
+
+  * Initial commit
+  * Contributors: Tony Baltovski
+
+ -- Tony Baltovski <tbaltovski@clearpathrobotics.com>  Sun, 15 Dec 2019 05:00:00 -0000
+
+
